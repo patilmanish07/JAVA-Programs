@@ -1,0 +1,17 @@
+import java.lang.*;
+
+class Command
+{
+    public static void main(String Arg[])
+	{
+		System.out.println("First number is :"+Arg[0]);
+		System.out.println("Second number is :"+Arg[1]);
+		
+		int ans = Integer.parseInt(Arg[0]) + Integer.parseInt(Arg[1]);
+		System.out.println(" Addition is :"+ans);
+    }		
+}
+
+//Commands : javac Command.java for (compilation)
+           // java Command 10 11 for (Execution)
+	
