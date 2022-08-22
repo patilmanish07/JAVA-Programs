@@ -1,0 +1,25 @@
+// Template.
+import java.lang.*;
+import java.util.*;
+
+
+class Bitwise
+{
+	
+}
+
+class program203
+{
+	public static void main(String arg[])
+	{
+		Scanner Sobj = new Scanner(System.in);
+		
+		System.out.println("Enter the number :");
+		int value = sobj.nextInt();
+		
+		System.out.println("Enter the position :");
+		int pos = sobj.nextInt();
+		
+		Bitwise bobj = new Bitwise();
+	}
+}
